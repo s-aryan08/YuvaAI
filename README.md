@@ -40,6 +40,16 @@ YuvaAI provides an interactive environment where users can create accounts, comm
 
 The project focuses on combining a lightweight frontend with a modular Python backend and a persistent database architecture.
 
+<img width="1918" height="925" alt="image 1" src="https://github.com/user-attachments/assets/ab5fda3d-0575-4ae1-8d25-816984c6226a" />
+
+
+<img width="1919" height="922" alt="image 2" src="https://github.com/user-attachments/assets/42cc70c3-cb37-41e0-a4a3-3a8906add3ef" />
+
+
+
+
+
+
 ## Live Application
 
 **Try YuvaAI here:**
