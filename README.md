@@ -15,7 +15,7 @@
     <strong>🌐 Live Demo</strong>
   </a>
   &nbsp; | &nbsp;
-  <a href="https://github.com/s-aryan08/UII">
+  <a href="https://github.com/s-aryan08/YuvaAI.git">
     <strong>💻 GitHub Repository</strong>
   </a>
 </p>
