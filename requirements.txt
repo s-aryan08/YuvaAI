@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+groq
+python-dotenv
+sqlalchemy
+psycopg[binary]
+pydantic
+
+# Authentication
+pwdlib[argon2]
+PyJWT
+email-validator
+
+# Database migrations
+alembic

@@ -1,0 +1,42 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Database backups
+*.dump
+*.bak
+*.backup
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+
+# Vercel
+.vercel/
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
